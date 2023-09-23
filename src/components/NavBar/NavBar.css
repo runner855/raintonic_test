@@ -1,0 +1,17 @@
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+li {
+  list-style: none;
+  margin: 0em 0.3em 0em 0.3em;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 0.8em;
+}
